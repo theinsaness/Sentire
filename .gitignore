@@ -16,6 +16,6 @@ __pycache__/
 # Archivos de entorno
 *.env
 
-# Archivos de VSCode (opcional)
+# Archivos de VSCode 
 .vscode/
 
